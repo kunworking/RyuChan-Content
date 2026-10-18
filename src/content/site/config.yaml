@@ -59,8 +59,8 @@ user:
   description: Ciallo～(∠・ω<)⌒★
   site: https://hub.131714.xyz
   avatar: /profile.png
-  qr_wechat: /WeChat.jpg
-  qr_alipay: /Alipay.jpg
+  qr_wechat: ''
+  qr_alipay: ''
   sidebar:
     social:
       - href: https://github.com/kobaridev
