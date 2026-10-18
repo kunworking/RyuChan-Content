@@ -1,6 +1,6 @@
 site:
-  tab: kunworking
-  title: kunworking
+  tab: RyuChan
+  title: RyuChan
   title_type: image
   title_image: /logo.png
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
@@ -55,11 +55,27 @@ site:
       svg: material-symbols:supervisor-account-outline-rounded
       target: _self
 user:
-  name: kunworking
+  name: KoBariDev
   description: Ciallo～(∠・ω<)⌒★
-  site: ''
+  site: https://hub.131714.xyz
   avatar: /profile.png
   qr_wechat: /WeChat.jpg
   qr_alipay: /Alipay.jpg
   sidebar:
-    social: []
+    social:
+      - href: https://github.com/kobaridev
+        ariaLabel: Github
+        title: Github
+        svg: ri:github-line
+      - href: https://space.bilibili.com/1536411565
+        ariaLabel: BiliBili
+        title: BiliBili
+        svg: ri:bilibili-line
+      - href: https://www.douyin.com/user/MS4wLjABAAAAeO0sqJYUgh1a26GkVPtS2yv_IOODjeqvtl4KSjvsntg?from_tab_name=main
+        ariaLabel: Douyin
+        title: Douyin
+        svg: ri:tiktok-line
+      - href: https://weibo.com/u/7579913510
+        title: Weibo
+        ariaLabel: Weibo
+        svg: ri:weibo-fill
